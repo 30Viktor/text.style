@@ -1,0 +1,30 @@
+body{
+    background-color:rgba(255, 166, 64, 0.788);
+}
+p{
+font-size: 80px;
+}
+#ht1{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ht2{
+color: red;
+}
+#ht3{
+text-transform:inherit;
+}#ht4{
+    font-style: oblique;
+
+}
+#ht5{
+letter-spacing: 10px;
+}
+#ht6{
+text-align: center;
+}
+#ht7{
+text-decoration: underline;
+}
+#ht8{
+line-height: 100px;
+}
